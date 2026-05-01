@@ -24,18 +24,6 @@ export const SERVICE_AREAS = {
     name: 'Brisbane & Gold Coast',
     description: 'Brisbane CBD to Tugun/Currumbin'
   },
-  NSW_SYDNEY: {
-    start: 2000,
-    end: 2250,
-    name: 'Sydney Metro',
-    description: 'Sydney CBD and surrounds'
-  },
-  NSW_NEWCASTLE: {
-    start: 2259,
-    end: 2340,
-    name: 'Newcastle & Hunter Valley',
-    description: 'Newcastle and Hunter region'
-  },
 };
 
 
